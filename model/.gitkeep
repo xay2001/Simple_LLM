@@ -1,0 +1,4 @@
+# 此文件用于保持model文件夹结构
+# 训练完成的模型文件将存放在此目录：
+# - transformer_model.pth - 最终训练模型
+# - transformer_model_best.pth - 最佳验证损失模型 
