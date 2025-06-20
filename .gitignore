@@ -1,0 +1,67 @@
+# 模型权重文件 - 不上传
+model/*.pth
+model/*.pt
+model/*.ckpt
+model/*.safetensors
+
+# 数据文件 - 不上传  
+data/*.txt
+data/*.json
+data/*.csv
+data/*.jsonl
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 训练日志和临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 环境变量文件
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook检查点
+.ipynb_checkpoints
+
+# pytest缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 其他临时文件
+*.bak
+*.orig
+temp/
+tmp/ 
